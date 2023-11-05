@@ -1,3 +1,3 @@
-## Hi!
+## Hello world
 
-We're Elda Bio, and we're committed to making melanoma easier to detect, track, and treat.
+Meet Elda: AI imaging infrastructure that helps you take better photos in every use case, faster than ever before.
